@@ -10,10 +10,6 @@ import android.widget.TextView;
 
 public class SegundaActivity extends AppCompatActivity {
 
-    /**
-     * @author Gustavo Lizarraga
-     * @date 06-04-17
-     * */
     private TextView tvTexto1;
     private TextView tvTexto2;
 
